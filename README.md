@@ -2,6 +2,9 @@
 A simple user login mobile application made using Google's Material Design. The app also has a registration page where user can give the 
 details. The user information will be saved using shared preference.  
 
+# Screenshots
+ <img width="216" height="432" src="Picture1.png">       <img width="216" height="432" src="Picture2.png">       <img width="216" height="432" src="Picture3.png">          <img width="216" height="432" src="Picture4.png">  
+
 # Credits
 [Google's Material Design](https://material.io/design/)
 
