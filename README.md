@@ -4,4 +4,5 @@ details. The user information will be saved using shared preference.
 
 # Credits
 [Google's Material Design](https://material.io/design/)
-[Canvaa](https://www.canva.com/)
+
+[Canva](https://www.canva.com/) - Canva is used for creating the Splashscreen image as well as the logo.
