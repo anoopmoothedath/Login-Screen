@@ -7,7 +7,7 @@ implementation 'com.google.android.material:material:1.2.0-alpha04' - to use the
 implementation "androidx.cardview:cardview:1.0.0" - to use the cardview
 
 # Screenshots
- <img width="216" height="432" src="Picture1.png">       <img width="216" height="432" src="Picture2.png">       <img width="216" height="432" src="Picture3.png">          <img width="216" height="432" src="Picture4.png">  
+ <img width="210" height="432" src="Picture1.png">       <img width="210" height="432" src="Picture2.png">       <img width="210" height="432" src="Picture3.png">          <img width="210" height="432" src="Picture4.png">  
 
 # Credits
 [Google's Material Design](https://material.io/design/)
