@@ -2,7 +2,9 @@
 A simple user login mobile application made using Google's Material Design. The app also has a registration page where user can give the 
 details. The user information will be saved using shared preference.  
 
-Add "implementation 'com.google.android.material:material:1.2.0-alpha04'" in the build.gradle file to use the material design components. 
+# Implementations (to be added in the build.gradle file)
+implementation 'com.google.android.material:material:1.2.0-alpha04' - to use the material design components. 
+implementation "androidx.cardview:cardview:1.0.0" - to use the cardview
 
 # Screenshots
  <img width="216" height="432" src="Picture1.png">       <img width="216" height="432" src="Picture2.png">       <img width="216" height="432" src="Picture3.png">          <img width="216" height="432" src="Picture4.png">  
