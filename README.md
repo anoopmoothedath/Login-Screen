@@ -25,4 +25,4 @@ In order to use Material Components for Android, and the latest versions of the 
 
 [Canva](https://www.canva.com/) - Canva is used for creating the Splashscreen image as well as the logo.
 
-[Getting started with Material Components for Android] (https://material.io/develop/android/docs/getting-started/)
+[Getting started with Material Components for Android](https://material.io/develop/android/docs/getting-started/)
