@@ -10,6 +10,11 @@ search for 'Device File Explorer',
 
 Go to data -> data -> project package name -> shared prefs -> .xml .
 
+# Google Material Design
+For using the google material design in android studio, add the following line in the build.gradle (app) file.
+
++ implementation 'com.google.android.material:material:1.2.0-alpha04'
+
 # Screenshots
  <img width="210" height="432" src="Picture1.png">       <img width="210" height="432" src="Picture2.png">       <img width="210" height="432" src="Picture3.png">          <img width="210" height="432" src="Picture4.png">  
 
